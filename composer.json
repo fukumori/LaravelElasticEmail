@@ -17,7 +17,8 @@
     "email": "rdanusha@gmail.com"
   },
   "require": {
-    "laravel/framework": "^5.4|^6.0"
+    "laravel/framework": "^5.4|^6.0",
+    "guzzlehttp/guzzle": "^6.0"
   },
   "autoload": {
     "psr-4": {
